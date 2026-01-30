@@ -14,7 +14,7 @@ This project is intended for educational and signal analysis purposes and is **n
 
 The ECG data used in this project is obtained from the **MIT-BIH Arrhythmia Database**, a widely used public dataset for ECG research.
 
-- Source: PhysioNet / MIT-BIH Arrhythmia Database  
+- Source: MIT-BIH Arrhythmia Database  
 - Sampling frequency: **360 Hz**
 - Leads used:
   - **MLII** (Modified Lead II)
